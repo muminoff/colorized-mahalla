@@ -3,6 +3,7 @@
 Colorizing grayscale images with neural networks
 
 ## Result:
+![result](result.jpg)
 
 
 ## References
